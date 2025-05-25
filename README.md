@@ -24,3 +24,4 @@ pip3 install -r requirementsvoyante.txt
 $ sh mysite.sh
 ```
 - visit http://localhost:8080
+# make-up-artist
